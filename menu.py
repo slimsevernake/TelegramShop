@@ -70,7 +70,3 @@ to_close = types.InlineKeyboardMarkup(row_width=3)
 to_close.add(
     types.InlineKeyboardButton(text='❌', callback_data='to_close')
 )
-
-
-
-
